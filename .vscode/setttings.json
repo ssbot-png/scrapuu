@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\gaush\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\scrapuu-_sIaGR13-py3.8",
+    "python.venvPath": "C:\\Users\\gaush\\AppData\\Local\\pypoetry\\Cache\\virtualenvs",
+    "python.venvFolders": [
+        "C:\\Users\\gaush\\AppData\\Local\\pypoetry\\Cache\\virtualenvs"
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.linting.enabled": true
+}
